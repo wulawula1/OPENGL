@@ -1,5 +1,4 @@
-﻿//202008010107 代金成
-//202008010116 韦超凡
+
 #include "Dependencies/glew/glew.h"
 #include "Dependencies/GLFW/glfw3.h"
 #include "Dependencies/glm/glm.hpp"
